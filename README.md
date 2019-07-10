@@ -89,8 +89,6 @@ the first receiver discovered on USB bus.
 - CU0014 used by R400 (no key extraction needed, unencrypted)
 
 ## DISCLAIMER
-- no responsibility for damage or destroyed devices 
-- no illegal use, meant for demonstration and educational purposes
 
 **munifying** is a Proof of Concept and should be used for authorized testing and/or 
 educational purposes only. The only exception is using it against devices
